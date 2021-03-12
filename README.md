@@ -10,9 +10,9 @@ This is the stripe payment website's homepage clone. The main purpose of this pr
 
 ## Live Demo
 
-[Live](https://mcihadkurel.github.io/restaurantmenu/)
+[Live](https://mcihadkurel.github.io/stripe/)
 
-<img src="./public/images/ss.png" alt=""/>
+<img src="./src/images/ss.png" alt=""/>
 
 ## Available Scripts
 
